@@ -7,7 +7,7 @@ It will check for:
 
 - HTTP/HTTPS sites
 - pingable IPs
-- open RDP Port
+- open MSQL Server Port
 
 ## How to use
 
