@@ -9,13 +9,6 @@ It will check for:
 - pingable IPs
 - open MSQL Server Port
 
-## How to use
-
-1. Create a Telegram bot by messaging @BotFather on Telegram
-2. Allow the Bot to text you by messaging your created bot on Telegram
-3. Get your Chat_Id by messaging @userinfobot on Telegram
-4. Create a schedule in the Windows scheduler to run it every minute
-
 These are the parameters you need to run the Bot
 - PATH_TO_PROGRAM.EXE
 - Bot Token from your created Bot (@BotFather tells you your Token)
